@@ -28,3 +28,8 @@ As you can see, it significantly changed the overall passing % of Thomas High Sc
 * Scores by Type- Thomas High School was classfied as a Charter school in both the original analysis and the adjusted.
 
 ## Summary
+Here are the four main changes I saw between the original analysis and the NaN analysis:
+1)
+2)
+3)
+4)
