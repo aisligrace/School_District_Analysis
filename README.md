@@ -5,7 +5,7 @@ Module 4
 The purpose of this analysis was to use Python and Jupyter Notebook and code that we had already created to conduct an analysis on schools within a school district. We analyzed the highest and lowest performing schools within the district, the budget per student, and the math and reading grades of students. Once we ran through our code we created during the module, we started on the particular purpose of this challenge assignment. We wanted to see if there were signs of academic dishonesty, so we went to Thomas High School and exchanged the 9th grade reading and math scores for NaNs. Then we redid our analysis using these NaNs. 
 
 ## Results
-* District Summary-
+* District Summary- Looking at the district summary from the original and comparing with the adjusted, the number of students, schools, and budget stayed the same. The math and reading scores dropped slightly, but the biggest change was that the overall passing % dropped a percentage point. 
 
 * School Summary- Because the school board was concerned about Thomas High School and the scores of their 9th grade students, we conducted a test. We replaced the 9th grade math and reading scores with NaNs and redid the analysis. 
 Here are the original results:
