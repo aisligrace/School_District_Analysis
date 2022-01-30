@@ -16,5 +16,6 @@ And here is the redone analysis:
 As you can see, it significantly changed the overall passing % of Thomas High School.Thomas High School went from being the 2nd highest rated school in the district to 8th. 
 
 In our first analysis, Thomas High School had a reading average score and a math average score of about 83. In our new analysis, you can see what replacing the NaNs to 9th grade did here:
+![image](https://github.com/aisligrace/School_District_Analysis/blob/main/9th%20grade%20NaNs.png)
 
 Thomas High School was in the $630-644 bin for spending. We did not see that change in the adjusted analysis. 
