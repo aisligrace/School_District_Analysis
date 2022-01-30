@@ -23,8 +23,8 @@ As you can see, it significantly changed the overall passing % of Thomas High Sc
 
 * Scores by Spending- Thomas High School was in the $630-644 bin for spending. We did not see that change in the adjusted analysis. 
 
-* Scores by Size-
+* Scores by Size- Thomas High School was classified as a 'medium' size school in both the original analysis and the adjusted. 
 
-* Scores by Type-
+* Scores by Type- Thomas High School was classfied as a Charter school in both the original analysis and the adjusted.
 
 ## Summary
