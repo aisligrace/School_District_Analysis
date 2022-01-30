@@ -29,6 +29,7 @@ As you can see, it significantly changed the overall passing % of Thomas High Sc
 
 ## Summary
 Here are the four main changes I saw between the original analysis and the NaN analysis:
+
 1)I believe the biggest change was that the overall passing rate of THS dropped from 91% to 65%
 
 2)Looking at the math and reading scores, the passing % of students dropped from 97% to 69% in reading and 93% to 66% in math. 
@@ -36,4 +37,3 @@ Here are the four main changes I saw between the original analysis and the NaN a
 3)THS was the second rated school in the district in our original analysis and dropped to 8th out of 15 in the NaN analysis
 
 4) The redone analysis with the NaN values affected the entire district, including dropping the overall passing rate for the district a percentage point
-
